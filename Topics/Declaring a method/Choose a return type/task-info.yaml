@@ -1,11 +1,11 @@
 type: choice
 is_multiple_choice: false
 options:
-- text: void
 - text: none
+- text: int
+- text: void
 - text: nothing
 - text: "null"
-- text: int
 message_correct: Congratulations!
 message_incorrect: Incorrect solution
 files:
