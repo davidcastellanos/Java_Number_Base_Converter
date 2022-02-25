@@ -12,9 +12,8 @@ files:
     \n        System.out.println(sumInRange(from, to));\n    } \n}"
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/10990#comment
-status: Failed
+status: Solved
 feedback:
-  message: |
-    Failed test #5 of 8. Wrong answer
-  time: Mon, 17 Jan 2022 20:45:21 UTC
+  message: <html>Correct solution</html>
+  time: Fri, 25 Feb 2022 16:10:42 UTC
 record: -1

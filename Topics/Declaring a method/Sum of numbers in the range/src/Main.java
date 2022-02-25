@@ -10,8 +10,22 @@ public class Main {
      *
      * @return the sum (long)
      */
-    public static long sumInRange(int from, int to) {
+    public static long sumInRange(long from, long to) {
         // write your code here
+        long result;
+
+        if (from == to) {
+            result = 0;
+
+        } else {
+            for (long i = from + 1; i < to; i++) {
+                from += i;
+            }
+
+            result = from;
+        }
+
+        return result;
     }
 
     /* Do not change code below */
