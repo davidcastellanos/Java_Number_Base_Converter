@@ -12,6 +12,7 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Adding values" />
             <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Application as a class" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Get first and last elements" />
             <option value="$PROJECT_DIR$/Topics/Arrays as parameters/How to invoke the method" />
             <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Sorting numbers" />
             <option value="$PROJECT_DIR$/Topics/Arrays as parameters/The declaration of the sumAll method" />
@@ -20,12 +21,14 @@
             <option value="$PROJECT_DIR$/Topics/Arrays as parameters/What does the code print" />
             <option value="$PROJECT_DIR$/Topics/Constructor/A required part of a class" />
             <option value="$PROJECT_DIR$/Topics/Constructor/A special method to initialize objects" />
+            <option value="$PROJECT_DIR$/Topics/Constructor/Account" />
             <option value="$PROJECT_DIR$/Topics/Constructor/Automatically created constructor" />
             <option value="$PROJECT_DIR$/Topics/Constructor/Automatically generated constructor" />
             <option value="$PROJECT_DIR$/Topics/Constructor/Book" />
             <option value="$PROJECT_DIR$/Topics/Constructor/Characterize the constructors" />
             <option value="$PROJECT_DIR$/Topics/Constructor/Complex numbers" />
             <option value="$PROJECT_DIR$/Topics/Constructor/Constructor definition" />
+            <option value="$PROJECT_DIR$/Topics/Constructor/Creating news" />
             <option value="$PROJECT_DIR$/Topics/Constructor/Default constructor" />
             <option value="$PROJECT_DIR$/Topics/Constructor/How to write a constructor" />
             <option value="$PROJECT_DIR$/Topics/Constructor/Theory" />
@@ -121,6 +124,8 @@
             <option value="$PROJECT_DIR$/Topics/Objects/Preparing full name" />
             <option value="$PROJECT_DIR$/Topics/Objects/Theory" />
             <option value="$PROJECT_DIR$/Topics/Objects/What is the value of a field" />
+            <option value="$PROJECT_DIR$/Topics/Package/Sorting arrays" />
+            <option value="$PROJECT_DIR$/Topics/Package/Theory" />
             <option value="$PROJECT_DIR$/Topics/String/Check burgs" />
             <option value="$PROJECT_DIR$/Topics/String/Check prefix ignoring the case" />
             <option value="$PROJECT_DIR$/Topics/String/Comparing strings ignoring whitespaces" />
