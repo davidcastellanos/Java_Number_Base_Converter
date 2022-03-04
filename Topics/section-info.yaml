@@ -12,3 +12,5 @@ content:
 - String
 - Iterating over arrays
 - Package
+- Static members
+- Getters and setters
