@@ -5,8 +5,6 @@ options:
 - text: str1.equals(str3)
 - text: str2.equalsIgnoreCase(str3)
 - text: str1.equals(str2)
-message_correct: Congratulations!
-message_incorrect: Incorrect solution
 files:
 - name: src/Task.java
   visible: true

@@ -5,8 +5,6 @@ options:
 - text: It's possible to get a value of <b>instanceField</b> inside the <b>staticMethod</b>.
 - text: It's possible to get a value of <b>staticField</b> inside the <b>staticMethod</b>.
 - text: It's impossible to get a value of <b>staticField</b> inside the class constructor.
-message_correct: Congratulations!
-message_incorrect: Incorrect solution
 files:
 - name: src/Task.java
   visible: true

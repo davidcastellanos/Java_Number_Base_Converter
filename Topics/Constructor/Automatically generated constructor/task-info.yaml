@@ -7,8 +7,6 @@ options:
     <b>body</b>'
 - text: a constructor taking <b>header</b> as the parameter
 - text: there is no automatically generated constructor
-message_correct: Congratulations!
-message_incorrect: Incorrect solution
 files:
 - name: src/Task.java
   visible: true

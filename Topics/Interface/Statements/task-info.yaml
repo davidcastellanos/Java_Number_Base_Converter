@@ -6,8 +6,6 @@ options:
 - text: An interface can contain abstract, default and static methods.
 - text: A class that implements an interface must implement default and static methods
     declared in the interface.
-message_correct: Congratulations!
-message_incorrect: Incorrect solution
 files:
 - name: src/Task.java
   visible: true

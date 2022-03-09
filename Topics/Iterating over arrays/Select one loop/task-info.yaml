@@ -7,8 +7,6 @@ options:
     }
 - text: for (int i = 2; i &gt;= 0; i--) { System.out.println(chars[i]); }
 - text: int i = 2; while (i &lt; 3) { System.out.println(chars[i]); i++; }
-message_correct: Congratulations!
-message_incorrect: Incorrect solution
 files:
 - name: src/Task.java
   visible: true

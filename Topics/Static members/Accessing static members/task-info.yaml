@@ -7,8 +7,6 @@ options:
 - text: In the body of <b>doSomething</b> you can access the field <b>magic</b> using
     the keyword <b>this</b>.
 - text: 'In the body of <b>doDo</b> you can directly  invoke the method <b>doSomething</b>. '
-message_correct: Congratulations!
-message_incorrect: Incorrect solution
 files:
 - name: src/Task.java
   visible: true

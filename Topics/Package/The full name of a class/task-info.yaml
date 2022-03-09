@@ -6,8 +6,6 @@ options:
 - text: org.hyperskill.java.DemoClass
 - text: org.hyperskill.java.DemoClass.class
 - text: java.org.hyperskill.DemoClass
-message_correct: Congratulations!
-message_incorrect: Incorrect solution
 files:
 - name: src/Task.java
   visible: true

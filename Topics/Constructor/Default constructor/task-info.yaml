@@ -5,8 +5,6 @@ options:
 - text: It's impossible.
 - text: SomeClass instance = new SomeClass();
 - text: SomeClass instance = SomeClass.defaultConstructor();
-message_correct: Congratulations!
-message_incorrect: Incorrect solution
 files:
 - name: src/Task.java
   visible: true

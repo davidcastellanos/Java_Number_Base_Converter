@@ -5,8 +5,6 @@ options:
 - text: public Order(String text, int amount) { }
 - text: public Order { }
 - text: public void Order(String text, int amount) { }
-message_correct: Congratulations!
-message_incorrect: Incorrect solution
 files:
 - name: src/Task.java
   visible: true

@@ -5,8 +5,6 @@ options:
 - text: A static method can access static and non-static fields.
 - text: A static method cannot be invoked by an instance method of the same class.
 - text: A static method can be accessed by the class name and doesn't need an object.
-message_correct: Congratulations!
-message_incorrect: Incorrect solution
 files:
 - name: src/Task.java
   visible: true

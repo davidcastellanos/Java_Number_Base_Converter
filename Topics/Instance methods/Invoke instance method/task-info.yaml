@@ -5,8 +5,6 @@ options:
 - text: write the object name, dot and then the name of a method
 - text: ' write the class name, dot and then the name of a method (e.g. <b>MyClass.method()</b>)'
 - text: You can't invoke instance method outside of the class
-message_correct: Congratulations!
-message_incorrect: Incorrect solution
 files:
 - name: src/Task.java
   visible: true

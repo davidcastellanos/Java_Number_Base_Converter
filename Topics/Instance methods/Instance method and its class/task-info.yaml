@@ -6,8 +6,6 @@ options:
 - text: Calling the same instance method for different objects of a class can produce
     different result.
 - text: A class can have multiple instance methods.
-message_correct: Congratulations!
-message_incorrect: Incorrect solution
 files:
 - name: src/Task.java
   visible: true
